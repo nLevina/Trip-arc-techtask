@@ -10,7 +10,7 @@ Java 17 or higher, Maven 3.9.5 or higher, Selenium WebDriver 3.141.59 or higher,
 
 ## Installation
 
-Clone this repository to your local machine using the command git clone https://github.com/nLevina/trip-arc-tech-task.git 
+Clone this repository to your local machine using the command git clone https://github.com/nLevina/Trip-arc-techtask.git 
 
 ## Usage
 
